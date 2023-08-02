@@ -1,7 +1,6 @@
 # Email Subscribe 
-
-
-![Alt text](images/email-subscribe.png) 
-
-![Alt text](images/email-subscribe2.png) stacks on a medium screen
+<p float="left">
+  <img src="/email-subscribe/images/email-subscribe.png" width="100" />
+  <img src="/email-subscribe/images/email-subscribe2.png" width="100" /> 
+</p>
 
